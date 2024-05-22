@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/maria-adelia-widijanto/
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+      href: "mailto:mariaadeliawidijanto@gmail.com"  
 ---
 
 ::: {#about-block}
