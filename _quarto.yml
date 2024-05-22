@@ -4,14 +4,14 @@
 website:
   title: "Maria Adelia Widijanto"                                # Your name
   description: "Personal website test"   # A brief slogan (optional)
-  image: img/my_image.jpg
+  image: img/my_pic.jpg
   
   favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    #logo: /img/logo.png
     
     # your sub-pages
     left:
