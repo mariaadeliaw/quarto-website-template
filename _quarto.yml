@@ -24,12 +24,12 @@ website:
     
     # your social media handles
     right:
-      - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
-      - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
+      # - icon: folder-symlink
+      #   href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
+      # - icon: twitter
+      #   href: https://twitter.com/MarvinSchmittML
       - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+        href: https://www.linkedin.com/in/maria-adelia-widijanto/
       - icon: envelope
         aria-label: email
         href: "mailto:mail.marvinschmitt@gmail.com"  
