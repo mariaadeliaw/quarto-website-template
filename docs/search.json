@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
     "title": "Curriculum vitae",
@@ -7,11 +14,11 @@
     "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
   },
   {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bio",
     "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nBio\n\nI am a Master’s student in the Erasmus Mundus Global Forestry (GLOFOR) program, specializing in landscape ecology and modeling. My skills lie in spatial data analysis, process-based and statistical models, and database management, which I am actively developing further through my Master’s studies. I’m excited to leverage these skills and my passion for forestry in a professional setting, and I’m currently open to new opportunities."
   },
   {
     "objectID": "projects/index.html",
@@ -33,12 +40,5 @@
     "title": "Projects",
     "section": "The History of the War of the Ring",
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my website!",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nOn this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life’s work as one of Middle-earth’s greatest scholars and thinkers. Please feel free to contact me if you have any questions or would like to discuss potential projects."
   }
 ]

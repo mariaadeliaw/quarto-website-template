@@ -6,7 +6,7 @@ website:
   description: "Personal website test"   # A brief slogan (optional)
   image: img/my_pic.jpg
   
-  favicon: img/favicon.png
+  #favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -17,8 +17,8 @@ website:
     left:
       - text: "Projects"
         href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
@@ -32,7 +32,7 @@ website:
         href: https://www.linkedin.com/in/maria-adelia-widijanto/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:mariaadeliawidijanto@gmail.com"  
   
   
 
