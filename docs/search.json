@@ -4,7 +4,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+    "text": "I’m actively working on becoming a more consistent writer and sharing my thoughts and ideas. Currently, I publish most of my work on my Medium profile, where for now I mostly posts my essays that were written for uni’s assignments and competitions. You can check out my latest posts through through this link."
   },
   {
     "objectID": "cv/index.html",
@@ -25,20 +25,20 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "I developed an interactive Quarto page to present the pre-analysis study of a fieldwork project from my master’s course, focusing on forest ecology. This page provides a detailed examination of the importance values and biodiversity indices of forest sites, comparing data collected from 2016 and 2019. It also includes a cost distance analysis, mapping the accessibility of permanent sample plots (PSPs) to nearby villages using Tobler’s hike function. By integrating visualizations and statistical models, the page highlights the ecological changes over time and explores the relationship between biodiversity and geographic accessibility."
   },
   {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
+    "objectID": "projects/index.html#pre-analysis-study-for-field-work-project",
+    "href": "projects/index.html#pre-analysis-study-for-field-work-project",
     "title": "Projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "I developed an interactive Quarto page to present the pre-analysis study of a fieldwork project from my master’s course, focusing on forest ecology. This page provides a detailed examination of the importance values and biodiversity indices of forest sites, comparing data collected from 2016 and 2019. It also includes a cost distance analysis, mapping the accessibility of permanent sample plots (PSPs) to nearby villages using Tobler’s hike function. By integrating visualizations and statistical models, the page highlights the ecological changes over time and explores the relationship between biodiversity and geographic accessibility."
   },
   {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "objectID": "projects/index.html#wsl-summer-school-on-old-growth-forest-research-2024",
+    "href": "projects/index.html#wsl-summer-school-on-old-growth-forest-research-2024",
     "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+    "section": "WSL Summer School on Old Growth Forest Research 2024",
+    "text": "WSL Summer School on Old Growth Forest Research 2024\n\n\n\nI participated in a group project at the WSL Summer School on Old Forests 2024, where we focused on analyzing forest gap dynamics using remote sensing techniques. The project aimed to map and classify changes in forest gaps over time using a time series of satellite imagery. We utilized the randomForest algorithm to generate annual gap maps and tracked the evolution of these gaps—whether new or expanding—by comparing the classified maps from consecutive years. Our approach allowed us to understand forest structural changes and disturbance patterns efficiently. For more details, you can explore the methodology and scripts in my GitHub repository."
   }
 ]
