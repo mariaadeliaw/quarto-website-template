@@ -8,7 +8,7 @@ title: Projects
 
 <!-- ![](project_1_banner.png) -->
 
-<!-- <a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> \| <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br> -->
+<a href="https://github.com/mariaadeliaw/glofor-nepal-fieldtrip" target="_blank">Code</a><br>
 
 I developed an interactive Quarto page to present the pre-analysis study of a fieldwork project from my master’s course, focusing on forest ecology. This page provides a detailed examination of the importance values and biodiversity indices of forest sites, comparing data collected from 2016 and 2019. It also includes a cost distance analysis, mapping the accessibility of permanent sample plots (PSPs) to nearby villages using Tobler's hike function. By integrating visualizations and statistical models, the page highlights the ecological changes over time and explores the relationship between biodiversity and geographic accessibility.
 
@@ -20,7 +20,7 @@ I developed an interactive Quarto page to present the pre-analysis study of a fi
 
 <!-- ![](project_2_banner.png) -->
 
-<!-- <!-- <a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> \| <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br> -->
+<a href="https://github.com/mariaadeliaw/wsl-ss-2024" target="_blank">Code</a><br> -->
 
 I participated in a group project at the WSL Summer School on Old Forests 2024, where we focused on analyzing forest gap dynamics using remote sensing techniques. The project aimed to map and classify changes in forest gaps over time using a time series of satellite imagery. We utilized the randomForest algorithm to generate annual gap maps and tracked the evolution of these gaps—whether new or expanding—by comparing the classified maps from consecutive years. Our approach allowed us to understand forest structural changes and disturbance patterns efficiently. For more details, you can explore the methodology and scripts in my GitHub repository.
 <!-- ```{=html} -->

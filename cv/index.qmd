@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Curriculum vitae (page under construction)
+title: Curriculum Vitae
 excerpt: My current CV
 execute:
   freeze: false  # never re-render during project render
 engine: knitr 
 resources:
-  - "cv.pdf"
+  - "cv2.pdf"
 cv:
-  pdf: "cv.pdf"
+  pdf: "cv2.pdf"
 ---
 ```{css echo=FALSE}
 .embed-container {
