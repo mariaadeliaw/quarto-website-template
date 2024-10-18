@@ -9,7 +9,7 @@
   {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
-    "title": "Curriculum vitae (page under construction)",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
   },
@@ -25,20 +25,20 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "I developed an interactive Quarto page to present the pre-analysis study of a fieldwork project from my master’s course, focusing on forest ecology. This page provides a detailed examination of the importance values and biodiversity indices of forest sites, comparing data collected from 2016 and 2019. It also includes a cost distance analysis, mapping the accessibility of permanent sample plots (PSPs) to nearby villages using Tobler’s hike function. By integrating visualizations and statistical models, the page highlights the ecological changes over time and explores the relationship between biodiversity and geographic accessibility."
+    "text": "Code\nI developed an interactive Quarto page to present the pre-analysis study of a fieldwork project from my master’s course, focusing on forest ecology. This page provides a detailed examination of the importance values and biodiversity indices of forest sites, comparing data collected from 2016 and 2019. It also includes a cost distance analysis, mapping the accessibility of permanent sample plots (PSPs) to nearby villages using Tobler’s hike function. By integrating visualizations and statistical models, the page highlights the ecological changes over time and explores the relationship between biodiversity and geographic accessibility."
   },
   {
     "objectID": "projects/index.html#pre-analysis-study-for-field-work-project",
     "href": "projects/index.html#pre-analysis-study-for-field-work-project",
     "title": "Projects",
     "section": "",
-    "text": "I developed an interactive Quarto page to present the pre-analysis study of a fieldwork project from my master’s course, focusing on forest ecology. This page provides a detailed examination of the importance values and biodiversity indices of forest sites, comparing data collected from 2016 and 2019. It also includes a cost distance analysis, mapping the accessibility of permanent sample plots (PSPs) to nearby villages using Tobler’s hike function. By integrating visualizations and statistical models, the page highlights the ecological changes over time and explores the relationship between biodiversity and geographic accessibility."
+    "text": "Code\nI developed an interactive Quarto page to present the pre-analysis study of a fieldwork project from my master’s course, focusing on forest ecology. This page provides a detailed examination of the importance values and biodiversity indices of forest sites, comparing data collected from 2016 and 2019. It also includes a cost distance analysis, mapping the accessibility of permanent sample plots (PSPs) to nearby villages using Tobler’s hike function. By integrating visualizations and statistical models, the page highlights the ecological changes over time and explores the relationship between biodiversity and geographic accessibility."
   },
   {
     "objectID": "projects/index.html#wsl-summer-school-on-old-growth-forest-research-2024",
     "href": "projects/index.html#wsl-summer-school-on-old-growth-forest-research-2024",
     "title": "Projects",
     "section": "WSL Summer School on Old Growth Forest Research 2024",
-    "text": "WSL Summer School on Old Growth Forest Research 2024\n\n\n\nI participated in a group project at the WSL Summer School on Old Forests 2024, where we focused on analyzing forest gap dynamics using remote sensing techniques. The project aimed to map and classify changes in forest gaps over time using a time series of satellite imagery. We utilized the randomForest algorithm to generate annual gap maps and tracked the evolution of these gaps—whether new or expanding—by comparing the classified maps from consecutive years. Our approach allowed us to understand forest structural changes and disturbance patterns efficiently. For more details, you can explore the methodology and scripts in my GitHub repository."
+    "text": "WSL Summer School on Old Growth Forest Research 2024\n\n\nCode –&gt;\nI participated in a group project at the WSL Summer School on Old Forests 2024, where we focused on analyzing forest gap dynamics using remote sensing techniques. The project aimed to map and classify changes in forest gaps over time using a time series of satellite imagery. We utilized the randomForest algorithm to generate annual gap maps and tracked the evolution of these gaps—whether new or expanding—by comparing the classified maps from consecutive years. Our approach allowed us to understand forest structural changes and disturbance patterns efficiently. For more details, you can explore the methodology and scripts in my GitHub repository."
   }
 ]
